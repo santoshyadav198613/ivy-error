@@ -1,0 +1,14 @@
+li:nth-child(odd) {
+    background: #ffffff;
+}
+
+li:nth-child(even) {
+    background: #f9f9f9;
+}
+
+.my-sticky{
+    position: sticky;
+    top: 55px;
+    z-index: 1;
+    height: 200px;
+}
